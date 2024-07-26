@@ -1,5 +1,5 @@
 ﻿# ZakariaMerghmi
- ![your_cool_intro (2)](https://github.com/user-attachments/assets/134889a1-4e5e-4cc8-8558-00ea7989e99c)
+      ![your_cool_intro (2)](https://github.com/user-attachments/assets/134889a1-4e5e-4cc8-8558-00ea7989e99c)
 <h1 align="center">Hi 👋, I'm Zakaria Merghmi</h1>
 <h3 align="center">A frontend developer from Algeria</h3>
 
