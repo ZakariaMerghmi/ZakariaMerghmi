@@ -26,7 +26,7 @@
     <a href="https://www.instagram.com/dev_with__zakaria?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a>
+    <a href="https://www.tiktok.com/@dev_with__zakaria?is_from_webapp=1&sender_device=pc">
        <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white")
     </a>
 </div>
