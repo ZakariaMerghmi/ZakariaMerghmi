@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zakaria merghmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria merghmi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/zakaria-merghmi-77877a312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zakaria-merghmi-77877a312" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_with__zakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_with__zakaria" height="30" width="40" /></a>
 </p>
 
