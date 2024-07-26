@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/zakaria-merghmi-77877a312" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="" target="_blank">
+    <a href="https://www.instagram.com/dev_with__zakaria?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
