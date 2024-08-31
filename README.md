@@ -52,7 +52,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayane-Boucheraine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaMerghmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
        height="150" alt="languages graph"  />
    <img width=390 src="https://github-readme-stats-Sales07.vercel.app/api?username=ZakariaMerghmi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
