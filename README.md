@@ -54,7 +54,7 @@
 <div align=center>
   ## My GitHub Stats
 
-![readme stats](https://github-readme-stats-Sales07.vercel.app/api?username=ZakariaMerghmi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+![readme stats](https://github-readme-stats-ZakariaMerghmi.vercel.app/api?username=ZakariaMerghmi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
   <img width=390 src="https://github-readme-stats-Sales07.vercel.app/api?username=ZakariaMerghmi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
