@@ -48,8 +48,10 @@
 
 ## 📂 Projects
 
-   -Weather App 🌤️ – [Live Demo](#) | [Source Code](https://github.com/ZakariaMerghmi/wheather-app-react.git)
-   -Task Manager 📝 – [Live Demo](#) | [Source Code](#)
+| Project | Description | Live Demo | Source Code |
+|--------|-------------|-----------|-------------|
+| 🌤️ Weather App | Fetches real-time weather data from an API and displays it in a styled React UI | [Live Demo](https://your-live-link.com) | [GitHub](https://github.com/ZakariaMerghmi/wheather-app-react.git) |
+| 📝 Task Manager | A task list app with add/delete functionality (React) | _Coming Soon_ | _Coming Soon_ |
 
 <hr/>
 
