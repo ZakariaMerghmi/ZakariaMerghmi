@@ -53,12 +53,14 @@
 | 📝 Task Manager | A task list app with add/delete functionality (React) | _Coming Soon_ | _Coming Soon_ |
 | 🍋 Little Lemon | 	A responsive web app built with React and Tailwind CSS featuring a booking system, dynamic menu, and stylish footer. |[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub]([https://github.com/ZakariaMerghmi/wheather-app-react.git](https://github.com/ZakariaMerghmi/little-lemon))  |
 | 🌤️ Weather App | Fetches real-time weather data from an API and displays it in a styled React UI | [Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/wheather-app-react.git) |
-| 📚 Dojo Blog | 	A simple blogging platform where users can create, view, and delete blog posts with responsive design.|[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub]([https://github.com/ZakariaMerghmi/wheather-app-react.git](https://github.com/ZakariaMerghmi/Dojo-blog))  |
+| 📚 Dojo Blog | 	A simple blogging platform where users can create, view, and delete blog posts with responsive design.|[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/Dojo-blog))  |
 | 🏋️‍♂️ Gym Web Page | 	A dynamic website design for GymZ, featuring a user-friendly interface and engaging sections like services, pricing, and contact.|[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/gym-web-page)  |
 | 🍕 Food Simple Page | A movie carousel that updates details and background based on selected images, with navigation buttons.|[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/food-very-simple-page) |
 | 🎬 Interactive Movie Carousel | Simple page built with React and Tailwind CSS, featuring a Navbar and Home component.|[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/Interactive-Movie-Carousel) |
 |✅ Daily Missions List |A task management app where users can add, check off, and delete tasks with a filtering feature.|[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/daily-missions-list) |
-
+|✂️ Rock Paper Scissors Game |A classic Rock-Paper-Scissors game played between a user and a computer with simple rules.|[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/rock-paper-scissor-game) |
+|🌦️ Weather App (Simple JS/CSS) |A weather web app providing real-time weather updates, built with HTML, CSS, and JavaScript.|[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/wheather-app-simpleJSAndCSS) |
+|📸 Photo Swipe |A web app for effortless photo sharing and viewing with a swipe feature, built with HTML, CSS, and JavaScript.|[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/photo-swip) |
 
 <hr/>
 
