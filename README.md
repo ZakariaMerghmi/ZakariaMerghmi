@@ -43,7 +43,7 @@
 # 🏅 Verified Certificates
 
 ## 🌟 Meta Front-End Developer Capstone (Coursera)
-<img src="https://imgur.com/a/W4IfsD6" alt="Meta Logo" />
+<img src="https://i.imgur.com/9pRZPyh.jpg" alt="Meta Logo" />
 
 **Issued by**: Coursera  
 **Course**: Meta Front-End Developer Capstone  
@@ -54,8 +54,6 @@
 ---
 
 ## 📜 More Certificates Coming Soon
-
-
 
 
 ## 📂 Projects
