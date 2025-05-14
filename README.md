@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **advanced react**
 
-💬 Ask me about **front-end basics**
+💬 Ask me about **about anything concerning Front-end / C / JS **
 
 ⚡ Fun fact **Game of Thrones is the best hahahaha**
 <div align="center"> 
