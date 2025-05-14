@@ -40,14 +40,21 @@
 </div>
 <hr/>
 
-<div style="text-align: left;">
-  <h2>🏅 Verified Certificates</h2>
-  <hr/>
-  <h3>📜 Meta Front-End Developer Capstone (Coursera)</h3>
-  <p>This certificate validates your skills in front-end development, covering essential topics like React, JavaScript, HTML, and CSS, all aimed at building dynamic web applications.</p>
-  <a href="https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20">View Certificate</a>
-  <hr/>
-</div>
+# 🏅 Verified Certificates
+
+## 🌟 Meta Front-End Developer Capstone (Coursera)
+[![Meta Front-End Developer](https://upload.wikimedia.org/wikipedia/commons/0/06/Coursera_logo.svg)](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
+
+**Issued by**: Coursera  
+**Course**: Meta Front-End Developer Capstone  
+**Completion Date**: May 2025
+
+[**View Certificate**](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
+
+---
+
+## 📜 More Certificates Coming Soon...
+
 
 
 
