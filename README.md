@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat application**
+ 🔭 I’m currently working on **a final project to finish with Front-end development**
  
- 🌱 I’m currently learning **advensec react**
+ 🌱 I’m currently learning **advanced react**
 
 💬 Ask me about **front-end basics**
 
@@ -44,6 +44,14 @@
 
  [Meta Front-End Developer Capstone (Coursera)](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
 
+<hr/>
+
+## 📂 Projects
+
+- Weather App 🌤️ – [Live Demo](#) | [Source Code](#)
+- Task Manager 📝 – [Live Demo](#) | [Source Code](#)
+
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
