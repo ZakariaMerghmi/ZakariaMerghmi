@@ -50,7 +50,7 @@
 
 | Project | Description | Live Demo | Source Code |
 |--------|-------------|-----------|-------------|
-| 🌤️ Weather App | Fetches real-time weather data from an API and displays it in a styled React UI | [Live Demo](https://vercel.com/zakaria-merghmis-projects/little-lemon-uw42/Ds1C4TeaLiCR7j772qS1dFLY8UM3) | [GitHub](https://github.com/ZakariaMerghmi/wheather-app-react.git) |
+| 🌤️ Weather App | Fetches real-time weather data from an API and displays it in a styled React UI | [Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/wheather-app-react.git) |
 | 📝 Task Manager | A task list app with add/delete functionality (React) | _Coming Soon_ | _Coming Soon_ |
 
 <hr/>
