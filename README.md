@@ -40,6 +40,11 @@
 </div>
 <hr/>
 
+## 🏅 Verified Certificates
+
+- [Meta Front-End Developer Capstone (Coursera)](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
+
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
