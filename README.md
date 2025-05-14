@@ -40,17 +40,14 @@
 </div>
 <hr/>
 
-## 🏅 **Verified Certificates**
-
----
-
-### 📜 **Meta Front-End Developer Capstone (Coursera)**
-
-This certificate validates your skills in front-end development, covering essential topics like React, JavaScript, HTML, and CSS, all aimed at building dynamic web applications.
-
-[**View Certificate**](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
-
----
+<div style="text-align: left;">
+  <h2>🏅 Verified Certificates</h2>
+  <hr/>
+  <h3>📜 Meta Front-End Developer Capstone (Coursera)</h3>
+  <p>This certificate validates your skills in front-end development, covering essential topics like React, JavaScript, HTML, and CSS, all aimed at building dynamic web applications.</p>
+  <a href="https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20">View Certificate</a>
+  <hr/>
+</div>
 
 
 
