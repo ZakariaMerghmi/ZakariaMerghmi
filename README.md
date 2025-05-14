@@ -42,11 +42,17 @@
 
 ## 🏅 **Verified Certificates**
 
+<div align="center">
+
 #### 📜 **Meta Front-End Developer Capstone (Coursera)**  
-This certificate validates your skills in front-end development, covering essential topics like React, JavaScript, HTML, and CSS, all aimed at building dynamic web applications.  
-[View Certificate](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
+This certificate validates your skills in front-end development, covering essential topics like React, JavaScript, HTML, and CSS, all aimed at building dynamic web applications.
+
+[**View Certificate**](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
+
+</div>
 
 <hr/>
+
 
 
 ## 📂 Projects
