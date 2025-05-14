@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a chat application**
  
- 🌱 I’m currently learning **react**
+ 🌱 I’m currently learning **advensec react**
 
 💬 Ask me about **front-end basics**
 
@@ -42,7 +42,7 @@
 
 ## 🏅 Verified Certificates
 
-- [Meta Front-End Developer Capstone (Coursera)](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
+ [Meta Front-End Developer Capstone (Coursera)](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
 
 
 <div align="center">
