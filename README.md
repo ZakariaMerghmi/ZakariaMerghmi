@@ -43,7 +43,8 @@
 # 🏅 Verified Certificates
 
 ## 🌟 Meta Front-End Developer Capstone (Coursera)
-[![Meta Front-End Developer](https://upload.wikimedia.org/wikipedia/commons/0/0f/Meta_Platforms_logo_2023.svg)]
+<img src="file:///C:/Users/mergh/Downloads/meta-brand-color%20(1).svg" alt="Meta Logo" />
+
 **Issued by**: Coursera  
 **Course**: Meta Front-End Developer Capstone  
 **Completion Date**: May 2025
