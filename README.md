@@ -48,8 +48,8 @@
 
 ## 📂 Projects
 
-- Weather App 🌤️ – [Live Demo](#) | [Source Code](#)
-- Task Manager 📝 – [Live Demo](#) | [Source Code](#)
+ Weather App 🌤️ – [Live Demo](#) | [Source Code](#)
+ Task Manager 📝 – [Live Demo](#) | [Source Code](#)
 
 <hr/>
 
