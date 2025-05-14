@@ -48,8 +48,8 @@
 
 ## 📂 Projects
 
-   Weather App 🌤️ – [Live Demo](#) | [Source Code]([#](https://github.com/ZakariaMerghmi/wheather-app-react.git))
-   Task Manager 📝 – [Live Demo](#) | [Source Code](#)
+   -Weather App 🌤️ – [Live Demo](#) | [Source Code](https://github.com/ZakariaMerghmi/wheather-app-react.git)
+   -Task Manager 📝 – [Live Demo](#) | [Source Code](#)
 
 <hr/>
 
