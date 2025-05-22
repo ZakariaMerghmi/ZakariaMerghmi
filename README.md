@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a final project to finish with Front-end development**
  
- 🌱 I’m currently learning **advanced react**
+ 🌱 I’m currently learning **Next.js**
 
 💬 Feel free to ask me anything related to **Front-End Development, C programming, or JavaScript!**
 
