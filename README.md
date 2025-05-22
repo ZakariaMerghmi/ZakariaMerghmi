@@ -53,6 +53,16 @@
 
 ---
 
+## 🌟 Meta Advenced React (Coursera)
+<img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" width="150" height="auto" />
+
+**Issued by**: Coursera  
+**Course**: Meta Advenced React  
+**Completion Date**: May 2025
+
+[**View Certificate**](https://www.coursera.org/account/accomplishments/certificate/EI4CO8APXMXI)
+
+
 ## 📜 More Certificates Coming Soon
 
 ## 📂 Projects
