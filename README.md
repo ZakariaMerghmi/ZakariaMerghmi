@@ -61,7 +61,8 @@
 **Completion Date**: May 2025
 
 ## 🌟 Scrimba TypeScript
-<img src="https://github.com/user-attachments/assets/9073464b-2f0b-4fa8-9c37-7a2aac3ee9c2" alt="Scrimba Logo" width="150" height="auto" />
+<img src="https://github.com/user-attachments/assets/0ecffe17-a687-46c3-8033-bcc2b62922df
+" alt="Scrimba Logo" width="150" height="auto" />
 
 **Issued by**: Scrimba  
 **Course**: Learn TypeScript  
