@@ -1,4 +1,4 @@
-﻿# ZakariaMerghmi
+# ZakariaMerghmi
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZakariaMerghmi.README.md" />
 <h1 align="center">
@@ -61,7 +61,7 @@
 **Completion Date**: May 2025
 
 ## 🌟 Scrimba TypeScript
-<img src="https://github.com/user-attachments/assets/0ecffe17-a687-46c3-8033-bcc2b62922df
+<img src="https://imgur.com/a/K4Jr7ou
 " alt="Scrimba Logo" width="150" height="auto" />
 
 **Issued by**: Scrimba  
