@@ -60,6 +60,14 @@
 **Course**: Meta Advenced React  
 **Completion Date**: May 2025
 
+## 🌟 Scrimba Typescript (Coursera)
+<img src="https://imgur.com/a/RwWPb8X" alt="Sc Logo" width="150" height="auto" />
+
+**Issued by**: Coursera  
+**Course**: Meta Advenced React  
+**Completion Date**: May 2025
+
+
 [**View Certificate**](https://www.coursera.org/account/accomplishments/certificate/EI4CO8APXMXI)
 
 
