@@ -61,7 +61,7 @@
 **Completion Date**: May 2025
 
 ## 🌟 Scrimba Typescript (Coursera)
-<img src="https://imgur.com/a/Kvgt9lZ" alt="Sc Logo" width="150" height="auto" />
+<img src="https://i.imgur.com/Kvgt9lZ.png" alt="Sc Logo" width="150" height="auto" />
 
 **Issued by**: Coursera  
 **Course**: Meta Advenced React  
