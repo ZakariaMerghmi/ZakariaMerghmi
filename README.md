@@ -66,10 +66,8 @@
 **Issued by**: Scrimba  
 **Course**: Learn TypeScript  
 **Completion Date**: May 2025  
-[**View Certificate**](https://www.coursera.org/account/accomplishments/certificate/EI4CO8APXMXI)
+[**View Certificate**](https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8)
 
-
-[**View Certificate**](https://www.coursera.org/account/accomplishments/certificate/EI4CO8APXMXI)
 
 
 ## 📜 More Certificates Coming Soon
