@@ -60,6 +60,17 @@
 **Course**: Meta Advenced React  
 **Completion Date**: May 2025
 
+---
+
+## 🌟 Scrimba Next.js (Coursera)
+
+
+**Issued by**: Scrimba  
+**Course**: Learn TypeScript  
+**Completion Date**: June 2025  
+[**View Certificate**](https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E)
+
+---
 ## 🌟 Scrimba TypeScript (Coursera)
 
 
