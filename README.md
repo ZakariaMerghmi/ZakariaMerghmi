@@ -58,7 +58,7 @@
   <h2>🌟 Meta Advanced React</h2>
   <p><strong>🧑‍🏫 Issued by:</strong> Coursera</p>
   <p><strong>📆 Completion Date:</strong> May 2025</p>
-    <a href="https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20" target="_blank">🔗 View Certificate</a><br />
+ <a href="https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20" target="_blank">🔗 View Certificate</a><br />
   <img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" width="120" />
 </section>
 
