@@ -40,55 +40,93 @@
 </div>
 <hr/>
 
+<style>
+  .certificate {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 16px;
+  }
+
+  .certificate img {
+    width: 80px;
+    height: auto;
+  }
+
+  .certificate-details {
+    flex: 1;
+  }
+
+  .certificate-details h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+
+  .certificate-details p {
+    margin: 4px 0;
+  }
+
+  .certificate-details a {
+    color: #007bff;
+    text-decoration: none;
+  }
+</style>
+
 <h1>🏅 Verified Certificates</h1>
 
-<!-- Meta Front-End Developer Capstone -->
-<section>
-  <h2>🌟 Meta Front-End Developer Capstone</h2>
-  <p><strong>🧑‍🏫 Issued by:</strong> Coursera</p>
-  <p><strong>📆 Completion Date:</strong> May 2025</p>
-  <a href="https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20" target="_blank">🔗 View Certificate</a><br />
-  <img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" width="120" />
-</section>
-
-<hr />
+<!-- Meta Capstone -->
+<div class="certificate">
+  <img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" />
+  <div class="certificate-details">
+    <h3>🌟 Meta Front-End Developer Capstone</h3>
+    <p><strong>Issued by:</strong> Coursera</p>
+    <p><strong>Completion Date:</strong> May 2025</p>
+    <a href="https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20" target="_blank">🔗 View Certificate</a>
+  </div>
+</div>
 
 <!-- Meta Advanced React -->
-<section>
-  <h2>🌟 Meta Advanced React</h2>
-  <p><strong>🧑‍🏫 Issued by:</strong> Coursera</p>
-  <p><strong>📆 Completion Date:</strong> May 2025</p>
- <a href="https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20" target="_blank">🔗 View Certificate</a><br />
-  <img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" width="120" />
-</section>
-
-<hr />
+<div class="certificate">
+  <img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" />
+  <div class="certificate-details">
+    <h3>🌟 Meta Advanced React</h3>
+    <p><strong>Issued by:</strong> Coursera</p>
+    <p><strong>Completion Date:</strong> May 2025</p>
+  </div>
+</div>
 
 <!-- Scrimba Next.js -->
-<section>
-  <h2>🌟 Scrimba – Learn Next.js</h2>
-  <p><strong>🧑‍🏫 Issued by:</strong> Scrimba</p>
-  <p><strong>📆 Completion Date:</strong> June 2025</p>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E" target="_blank">🔗 View Certificate</a>
-</section>
-
-<hr />
+<div class="certificate">
+  <img src="https://scrimba.com/static/art/scrimba-og-image.png" alt="Scrimba Logo" />
+  <div class="certificate-details">
+    <h3>🌟 Scrimba – Learn Next.js</h3>
+    <p><strong>Issued by:</strong> Scrimba</p>
+    <p><strong>Completion Date:</strong> June 2025</p>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E" target="_blank">🔗 View Certificate</a>
+  </div>
+</div>
 
 <!-- Scrimba TypeScript -->
-<section>
-  <h2>🌟 Scrimba – Learn TypeScript</h2>
-  <p><strong>🧑‍🏫 Issued by:</strong> Scrimba</p>
-  <p><strong>📆 Completion Date:</strong> June 2025</p>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8" target="_blank">🔗 View Certificate</a>
-</section>
-
-<hr />
+<div class="certificate">
+  <img src="https://scrimba.com/static/art/scrimba-og-image.png" alt="Scrimba Logo" />
+  <div class="certificate-details">
+    <h3>🌟 Scrimba – Learn TypeScript</h3>
+    <p><strong>Issued by:</strong> Scrimba</p>
+    <p><strong>Completion Date:</strong> June 2025</p>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8" target="_blank">🔗 View Certificate</a>
+  </div>
+</div>
 
 <!-- Coming Soon -->
-<section>
-  <h2>📜 More Certificates Coming Soon...</h2>
-  <p>Stay tuned as I continue expanding my front-end and full-stack development skills!</p>
-</section>
+<div class="certificate">
+  <img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" />
+  <div class="certificate-details">
+    <h3>📜 More Certificates Coming Soon</h3>
+    <p>Stay tuned as I continue expanding my front-end and full-stack development skills!</p>
+  </div>
+</div>
 
 ## 📂 Projects
 
