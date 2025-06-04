@@ -40,18 +40,29 @@
 </div>
 <hr/>
 
-# 🏅 Verified Certificates
+# 🏅 Verified Certificates & 📂 Projects
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+
+<!-- Certificates -->
+<div style="flex: 1; min-width: 300px;">
+
+### 🏅 Verified Certificates
 
 | Logo | Certificate |
 |------|-------------|
-| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Front-End Developer Capstone**  <br> 🏢 Issued by: Coursera  <br> 📅 May 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20) |
-| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Advanced React**  <br> 🏢 Coursera  <br> 📅 May 2025 |
-| <img src="https://scrimba.com/static/art/scrimba-og-image.png" width="80"/> | **🌟 Scrimba – Learn Next.js**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E) |
 | <img src="https://scrimba.com/static/art/scrimba-og-image.png" width="80"/> | **🌟 Scrimba – Learn TypeScript**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8) |
+| <img src="https://scrimba.com/static/art/scrimba-og-image.png" width="80"/> | **🌟 Scrimba – Learn Next.js**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E) |
+| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Advanced React**  <br> 🏢 Coursera  <br> 📅 May 2025 |
+| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Front-End Developer Capstone**  <br> 🏢 Coursera  <br> 📅 May 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20) |
 | ⏳ | **📜 More Certificates Coming Soon**  <br> Stay tuned! |
 
+</div>
 
-## 📂 Projects
+<!-- Projects -->
+<div style="flex: 2; min-width: 500px;">
+
+### 📂 Projects
 
 | Project | Description | Live Demo | Source Code |
 |--------|-------------|-----------|-------------|
@@ -62,12 +73,14 @@
 | 🏋️‍♂️ Gym Web Page | 	A dynamic website design for GymZ, featuring a user-friendly interface and engaging sections like services, pricing, and contact.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/gym-web-page)  |
 | 🍕 Food Simple Page | A movie carousel that updates details and background based on selected images, with navigation buttons.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/food-very-simple-page) |
 | 🎬 Interactive Movie Carousel | Simple page built with React and Tailwind CSS, featuring a Navbar and Home component.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/Interactive-Movie-Carousel) |
-|✅ Daily Missions List |A task management app where users can add, check off, and delete tasks with a filtering feature.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/daily-missions-list) |
-|✂️ Rock Paper Scissors Game |A classic Rock-Paper-Scissors game played between a user and a computer with simple rules.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/rock-paper-scissor-game) |
-|🌦️ Weather App (Simple JS/CSS) |A weather web app providing real-time weather updates, built with HTML, CSS, and JavaScript.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/wheather-app-simpleJSAndCSS) |
-|📸 Photo Swipe |A web app for effortless photo sharing and viewing with a swipe feature, built with HTML, CSS, and JavaScript.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/photo-swip) |
+| ✅ Daily Missions List |A task management app where users can add, check off, and delete tasks with a filtering feature.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/daily-missions-list) |
+| ✂️ Rock Paper Scissors Game |A classic Rock-Paper-Scissors game played between a user and a computer with simple rules.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/rock-paper-scissor-game) |
+| 🌦️ Weather App (Simple JS/CSS) |A weather web app providing real-time weather updates, built with HTML, CSS, and JavaScript.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/wheather-app-simpleJSAndCSS) |
+| 📸 Photo Swipe |A web app for effortless photo sharing and viewing with a swipe feature, built with HTML, CSS, and JavaScript.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/photo-swip) |
 
-<hr/>
+</div>
+
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
