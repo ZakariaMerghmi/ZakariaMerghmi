@@ -40,48 +40,54 @@
 </div>
 <hr/>
 
-# 🏅 Verified Certificates
+<h1>🏅 Verified Certificates</h1>
 
-## 🌟 Meta Front-End Developer Capstone (Coursera)
-<img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" width="150" height="auto" />
+<!-- Meta Front-End Developer Capstone -->
+<section>
+  <h2>🌟 Meta Front-End Developer Capstone</h2>
+  <p><strong>🧑‍🏫 Issued by:</strong> Coursera</p>
+  <p><strong>📆 Completion Date:</strong> May 2025</p>
+  <a href="https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20" target="_blank">🔗 View Certificate</a><br />
+  <img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" width="120" />
+</section>
 
-**Issued by**: Coursera  
-**Course**: Meta Front-End Developer Capstone  
-**Completion Date**: May 2025
+<hr />
 
-[**View Certificate**](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20)
+<!-- Meta Advanced React -->
+<section>
+  <h2>🌟 Meta Advanced React</h2>
+  <p><strong>🧑‍🏫 Issued by:</strong> Coursera</p>
+  <p><strong>📆 Completion Date:</strong> May 2025</p>
+  <img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" width="120" />
+</section>
 
----
+<hr />
 
-## 🌟 Meta Advenced React (Coursera)
-<img src="https://i.imgur.com/9pRZPyh.png" alt="Meta Logo" width="150" height="auto" />
+<!-- Scrimba Next.js -->
+<section>
+  <h2>🌟 Scrimba – Learn Next.js</h2>
+  <p><strong>🧑‍🏫 Issued by:</strong> Scrimba</p>
+  <p><strong>📆 Completion Date:</strong> June 2025</p>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E" target="_blank">🔗 View Certificate</a>
+</section>
 
-**Issued by**: Coursera  
-**Course**: Meta Advenced React  
-**Completion Date**: May 2025
+<hr />
 
----
+<!-- Scrimba TypeScript -->
+<section>
+  <h2>🌟 Scrimba – Learn TypeScript</h2>
+  <p><strong>🧑‍🏫 Issued by:</strong> Scrimba</p>
+  <p><strong>📆 Completion Date:</strong> June 2025</p>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8" target="_blank">🔗 View Certificate</a>
+</section>
 
-## 🌟 Scrimba Next.js (Coursera)
+<hr />
 
-
-**Issued by**: Scrimba  
-**Course**: Learn TypeScript  
-**Completion Date**: June 2025  
-[**View Certificate**](https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E)
-
----
-## 🌟 Scrimba TypeScript (Coursera)
-
-
-**Issued by**: Scrimba  
-**Course**: Learn TypeScript  
-**Completion Date**: June 2025  
-[**View Certificate**](https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8)
-
-
-
-## 📜 More Certificates Coming Soon
+<!-- Coming Soon -->
+<section>
+  <h2>📜 More Certificates Coming Soon...</h2>
+  <p>Stay tuned as I continue expanding my front-end and full-stack development skills!</p>
+</section>
 
 ## 📂 Projects
 
