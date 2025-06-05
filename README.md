@@ -47,18 +47,21 @@
 <!-- Certificates -->
 <div style="flex: 1; min-width: 300px;">
 
+<!-- Certificates -->
+<div style="flex: 1; min-width: 300px;">
+
 ### 🏅 Verified Certificates
 
 | Logo | Certificate |
 |------|-------------|
-| <img src="https://imgur.com/a/Y2vKdzC.png" width="80"/> | **🌟 Scrimba – Learn Next.js**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> |
-| <img src="https://i.postimg.cc/52HcdSYH/kiss-cut-stickers-white-4x4-default-64c27814005ad.webp" width="80"/>
-| **🌟 Scrimba – Learn TypeScript**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8) |
-| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Advanced React**  <br> 🏢 Coursera  <br> 📅 May 2025 <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/EI4CO8APXMXI) |
-| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Front-End Developer Capstone**  <br> 🏢 Coursera  <br> 📅 May 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/XUNDKWXF0L20) |
+| <img src="https://scrimba.com/static/art/scrimba-og-image.png" width="80"/> | **🌟 Scrimba – Learn Next.js**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E) |
+| <img src="https://scrimba.com/static/art/scrimba-og-image.png" width="80"/> | **🌟 Scrimba – Learn TypeScript**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8) |
+| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Advanced React**  <br> 🏢 Coursera  <br> 📅 May 2025 |
+| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Front-End Developer Capstone**  <br> 🏢 Coursera  <br> 📅 May 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20) |
 | ⏳ | **📜 More Certificates Coming Soon**  <br> Stay tuned! |
 
 </div>
+
 
 <!-- Projects -->
 <div style="flex: 2; min-width: 500px;">
