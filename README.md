@@ -54,7 +54,7 @@
 
 | Logo | Certificate |
 |------|-------------|
-| <img src="https://scrimba.com/static/art/scrimba-og-image.png" width="80"/> | **🌟 Scrimba – Learn Next.js**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E) |
+| <img src="https://i.postimg.cc/NMgktv7f/Simpleicons-Team-Simple-Scrimba-512-3.png" width="80"/> | **🌟 Scrimba – Learn Next.js**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E) |
 | <img src="https://i.postimg.cc/Qdt9kxN3/Scrimba-Streamline-Simple-Icons-2.png" width="80"/> | **🌟 Scrimba – Learn TypeScript**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8) |
 | <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Advanced React**  <br> 🏢 Coursera  <br> 📅 May 2025 |
 | <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Front-End Developer Capstone**  <br> 🏢 Coursera  <br> 📅 May 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/verify/XUNDKWXF0L20) |
