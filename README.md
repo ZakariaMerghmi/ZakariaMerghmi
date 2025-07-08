@@ -70,7 +70,7 @@
 
 | Project | Description | Live Demo | Source Code |
 |--------|-------------|-----------|-------------|
-| 🎬 Task Manager |A movie search and list app with routing (React + firebase + Tailwind CSS)  | [Live Demo](https://cine-zakaria-1xhr.vercel.app/) |[GitHub](https://github.com/ZakariaMerghmi/CineZakaria) |
+| 🎬 Movies Website |A movie search and list app with routing (React + firebase + Tailwind CSS)  | [Live Demo](https://cine-zakaria-1xhr.vercel.app/) |[GitHub](https://github.com/ZakariaMerghmi/CineZakaria) |
 | 🍋 Little Lemon | 	A responsive web app built with React and Tailwind CSS featuring a booking system, dynamic menu, and stylish footer. |[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/little-lemon) |
 | 🌤️ Weather App | Fetches real-time weather data from an API and displays it in a styled React UI | [Live Demo](https://wheather-app-react-kbbi.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/wheather-app-react.git) |
 | 📚 Dojo Blog | 	A simple blogging platform where users can create, view, and delete blog posts with responsive design.| ❌ | [GitHub](https://github.com/ZakariaMerghmi/Dojo-blog)  |
