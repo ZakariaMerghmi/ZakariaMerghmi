@@ -70,7 +70,7 @@
 
 | Project | Description | Live Demo | Source Code |
 |--------|-------------|-----------|-------------|
-| 📊 Dashboard Hub | A responsive admin dashboard using Next.js + Tailwind + Recharts | [Live Demo](https://dashboard-hub-ccp2.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/Dashboard-Hub) |
+| 📊 Dashboard Hub | A fully responsive Admin Dashboard built with Next.js, Tailwind CSS, and Recharts — powered by Firebase | [Live Demo](https://dashboard-hub-ccp2.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/Dashboard-Hub) |
 | 🎬 Movies Website |A movie search and list app with routing (React + firebase + Tailwind CSS)  | [Live Demo](https://cine-zakaria-1xhr.vercel.app/) |[GitHub](https://github.com/ZakariaMerghmi/CineZakaria) |
 | 🍋 Little Lemon | 	A responsive web app built with React and Tailwind CSS featuring a booking system, dynamic menu, and stylish footer. |[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/little-lemon) |
 | 🌤️ Weather App | Fetches real-time weather data from an API and displays it in a styled React UI | [Live Demo](https://wheather-app-react-kbbi.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/wheather-app-react.git) |
