@@ -9,15 +9,14 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a final project to finish with Front-end development**
- 
- 🌱 I’m currently learning **Full-stack Development**
 
-💬 Feel free to ask me anything related to **Front-End Development, C programming, or TypescriptScript!**
+🎯 I’ve completed my journey in **Frontend Development** (React, Next.js, TypeScript) and built several projects integrating **Firebase** for backend services.  
+🌱 I’m currently diving deeper into **Fullstack Development**, exploring more backend technologies and advanced architecture.  
+💬 Let’s connect if you’d like to chat about **Frontend frameworks, TypeScript, Firebase, or C programming**.  
+⚡ Fun fact: I still think **Game of Thrones** is the greatest series of all time — yes, even Season 8 😄
 
-⚡ Fun fact **Game of Thrones is the best hahahaha**
-<div align="center"> 
+</div>
+
   <a href="mailto:zakariaprogrammieren@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
