@@ -10,12 +10,12 @@
 
 <div align="center">
 
-🎯 I’ve completed my journey in **Frontend Development** (React, Next.js, TypeScript) and built several projects integrating **Firebase** for backend services.  
+🎯 I’ve completed my journey in **Frontend Development** (React, Next.js, TypeScript) and built several projects integrating **Firebase** for backend. 
 🌱 I’m currently diving deeper into **Fullstack Development**, exploring more backend technologies and advanced architecture.  
 💬 Let’s connect if you’d like to chat about **Frontend frameworks, TypeScript, Firebase, or C programming**.  
 ⚡ Fun fact: I still think **Game of Thrones** is the greatest series of all time — yes, even Season 8 😄
 
-</div>
+<div align="center">
 
   <a href="mailto:zakariaprogrammieren@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
