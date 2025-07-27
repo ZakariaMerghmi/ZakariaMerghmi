@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div >
 
 🎯 I’ve completed my journey in **Frontend Development** (React, Next.js, TypeScript) and built several projects integrating **Firebase** for backend. 
 🌱 I’m currently diving deeper into **Fullstack Development**, exploring more backend technologies and advanced architecture.  
