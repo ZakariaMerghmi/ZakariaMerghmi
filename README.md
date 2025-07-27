@@ -41,7 +41,8 @@
 </div>
 <hr/>
 
-# 🏅 Verified Certificates & 📂 Projects
+<h2 align="center">🏅 Verified Certificates & 📂 Projects</h2>
+
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
