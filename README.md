@@ -30,6 +30,8 @@
     <a href="https://www.tiktok.com/@dev_with__zakaria?is_from_webapp=1&sender_device=pc">
        <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white")
     </a>
+        <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="zakaria-merghmi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/zakaria-merghmi?trk=profile-badge">Zakaria Merghmi</a></div>
+              
 </div>
 <hr/>
  
