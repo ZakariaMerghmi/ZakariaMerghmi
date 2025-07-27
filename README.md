@@ -49,19 +49,38 @@
 <div style="flex: 1; min-width: 300px;">
 
 <!-- Certificates -->
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 300px; text-align: center;">
 
 ### 🏅 Verified Certificates
 
-| Logo | Certificate |
-|------|-------------|
-| <img src="https://i.postimg.cc/hGSxCqSc/scrimba-logo-svg-sticker-1.jpg" width="80"/> | **🌟 Scrimba – Learn Next.js**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E) |
-| <img src="https://i.postimg.cc/hGSxCqSc/scrimba-logo-svg-sticker-1.jpg" width="80"/> | **🌟 Scrimba – Learn TypeScript**  <br> 🏢 Scrimba  <br> 📅 June 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8) |
-| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Advanced React**  <br> 🏢 Coursera  <br> 📅 May 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/EI4CO8APXMXI) |
-| <img src="https://i.imgur.com/9pRZPyh.png" width="80"/> | **🌟 Meta Front-End Developer Capstone**  <br> 🏢 Coursera  <br> 📅 May 2025  <br> [🔗 View Certificate](https://www.coursera.org/account/accomplishments/certificate/XUNDKWXF0L20) |
-| ⏳ | **📜 More Certificates Coming Soon**  <br> Stay tuned! |
+<table align="center">
+  <tr>
+    <th>Logo</th>
+    <th>Certificate</th>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/hGSxCqSc/scrimba-logo-svg-sticker-1.jpg" width="80"/></td>
+    <td><strong>🌟 Scrimba – Learn Next.js</strong><br>🏢 Scrimba<br>📅 June 2025<br><a href="https://www.coursera.org/account/accomplishments/certificate/WUDQLRT1TM1E">🔗 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/hGSxCqSc/scrimba-logo-svg-sticker-1.jpg" width="80"/></td>
+    <td><strong>🌟 Scrimba – Learn TypeScript</strong><br>🏢 Scrimba<br>📅 June 2025<br><a href="https://www.coursera.org/account/accomplishments/certificate/5K8TWC8Q6VX8">🔗 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/9pRZPyh.png" width="80"/></td>
+    <td><strong>🌟 Meta Advanced React</strong><br>🏢 Coursera<br>📅 May 2025<br><a href="https://www.coursera.org/account/accomplishments/certificate/EI4CO8APXMXI">🔗 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/9pRZPyh.png" width="80"/></td>
+    <td><strong>🌟 Meta Front-End Developer Capstone</strong><br>🏢 Coursera<br>📅 May 2025<br><a href="https://www.coursera.org/account/accomplishments/certificate/XUNDKWXF0L20">🔗 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>⏳</td>
+    <td><strong>📜 More Certificates Coming Soon</strong><br>Stay tuned!</td>
+  </tr>
+</table>
 
-
+</div>
 
 <!-- Projects -->
 <div style="flex: 2; min-width: 500px;">
