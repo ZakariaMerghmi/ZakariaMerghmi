@@ -52,7 +52,7 @@
 <!-- Certificates -->
 <div style="flex: 1; min-width: 300px; text-align: center;">
 
-<h2 align="center"> ### 🏅 Verified Certificates </h2>
+<h2 align="center">  🏅 Verified Certificates </h2>
 
 <table align="center">
   <tr>
