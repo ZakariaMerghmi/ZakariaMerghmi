@@ -10,9 +10,9 @@
 
 <div >
 
-🎯 I’ve completed my journey in **Frontend Development** (React, Next.js, TypeScript) and built several projects integrating **Firebase** for backend. 
+🎯 I’ve completed my journey in **Frontend Development** (Nuxt.js,TypeScript) and built several projects integrating **CMS** for backend. 
 🌱 I’m currently diving deeper into **Fullstack Development**, exploring more backend technologies and advanced architecture.  
-💬 Let’s connect if you’d like to chat about **Frontend frameworks, TypeScript, Firebase, or C programming**.  
+💬 Let’s connect if you’d like to chat about **Frontend frameworks, TypeScript, CMS, or C programming**.  
 ⚡ Fun fact: I still think **Game of Thrones** is the greatest series of all time — yes, even Season 8 😄
 
 <div align="center">
@@ -136,5 +136,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=thx+for+visiting!+👋;+come+back+again!;" />
 </h1>
+
 
 
