@@ -7,12 +7,7 @@
 <h3 align="center">⚡Front-End Developer | Focused on building real-world projects & growing every day⚡</h3>
 
 <br/>
-<div align="center">
-  <a href="https://zakariamerghmi.github.io/zakaria-merghmi.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</div>
-<br/>
+
 <div >
 
 🎯 I’ve completed my journey in **Frontend Development** (Nuxt.js,TypeScript) and built several projects integrating **CMS** for backend. 
@@ -34,7 +29,12 @@
     <a href="https://www.tiktok.com/@dev_with__zakaria?is_from_webapp=1&sender_device=pc">
        <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white")
     </a>
-       
+    <div align="center">
+  <a href="https://zakariamerghmi.github.io/zakaria-merghmi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</div>
+<br/>
 </div>
 <hr/>
  
@@ -95,6 +95,7 @@
 
 | Project | Description | Live Demo | Source Code |
 |--------|-------------|-----------|-------------|
+| 🖥️ Personal Portfolio | My developer portfolio site with an interactive hero, timeline, and tilt-card projects. | [Live Demo](https://zakariamerghmi.github.io/zakaria-merghmi.github.io/) | [GitHub](https://github.com/ZakariaMerghmi/zakaria-merghmi.github.io)|
 | 📊 Dashboard Hub | A fully responsive Admin Dashboard built with Next.js, Tailwind CSS, and Recharts — powered by Firebase | [Live Demo](https://dashboard-hub-ccp2.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/Dashboard-Hub) |
 | 🎬 Movies Website |A movie search and list app with routing (React + firebase + Tailwind CSS)  | [Live Demo](https://cine-zakaria-1xhr.vercel.app/) |[GitHub](https://github.com/ZakariaMerghmi/CineZakaria) |
 | 🍋 Little Lemon | 	A responsive web app built with React and Tailwind CSS featuring a booking system, dynamic menu, and stylish footer. |[Live Demo](https://little-lemon-uw42-g4cjq8geh-zakaria-merghmis-projects.vercel.app/) | [GitHub](https://github.com/ZakariaMerghmi/little-lemon) |
