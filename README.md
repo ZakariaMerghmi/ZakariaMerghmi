@@ -7,7 +7,12 @@
 <h3 align="center">⚡Front-End Developer | Focused on building real-world projects & growing every day⚡</h3>
 
 <br/>
-
+<div align="center">
+  <a href="https://zakariamerghmi.github.io/zakaria-merghmi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</div>
+<br/>
 <div >
 
 🎯 I’ve completed my journey in **Frontend Development** (Nuxt.js,TypeScript) and built several projects integrating **CMS** for backend. 
