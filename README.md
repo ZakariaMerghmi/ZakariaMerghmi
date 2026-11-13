@@ -57,6 +57,4 @@ I am always glad to exchange ideas about frontend architecture, multilingual web
 
 My portfolio and this profile were built in pair programming with [Claude](https://claude.com). I gave the direction and reviewed every change, and Claude never complained about my change requests. Using AI tools well is part of the job now, so yes, I can do that too. :)
 
-<img src="https://raw.githubusercontent.com/ZakariaMerghmi/ZakariaMerghmi/output/github-contribution-grid-snake-gold.svg" alt="A snake moving across my GitHub contribution graph" width="100%">
-
 <img src="footer.svg" alt="Thanks for visiting. See you in the next commit." width="100%">
