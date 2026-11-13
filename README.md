@@ -30,13 +30,13 @@ I work as a working student in frontend development at Lauterbach GmbH, where I 
 
 | Project | What it is | Built with | Links |
 | --- | --- | --- | --- |
-| **Portfolio** | My own site in three languages, with a name that reacts to the cursor | HTML, CSS, JavaScript | [Live](https://zakariamerghmi.github.io/zakaria-merghmi.github.io/), [Code](https://github.com/ZakariaMerghmi/zakaria-merghmi.github.io) |
-| **Dashboard Hub** | A responsive admin dashboard with charts | Next.js, Tailwind CSS, Recharts, Firebase | [Live](https://dashboard-hub-ccp2.vercel.app/), [Code](https://github.com/ZakariaMerghmi/Dashboard-Hub) |
+| **Portfolio** | My own site in three languages, with a name that reacts to the cursor. Built together with Claude | HTML, CSS, JavaScript | [Live](https://zakariamerghmi.github.io/zakaria-merghmi.github.io/)&nbsp;/&nbsp;[Code](https://github.com/ZakariaMerghmi/zakaria-merghmi.github.io) |
+| **Dashboard Hub** | A responsive admin dashboard with charts | Next.js, Tailwind CSS, Recharts, Firebase | [Live](https://dashboard-hub-ccp2.vercel.app/)&nbsp;/&nbsp;[Code](https://github.com/ZakariaMerghmi/Dashboard-Hub) |
 | **Taskify Hub** | A real-time task manager with sign-in, roles and dark mode | Next.js, Firebase, Tailwind CSS | [Code](https://github.com/ZakariaMerghmi/Taskify-Hub) |
-| **Cine Zakaria** | A film browser with live search, filters and favourites | React, React Router, TheMovieDB API | [Live](https://cine-zakaria-1xhr.vercel.app/), [Code](https://github.com/ZakariaMerghmi/CineZakaria) |
+| **Cine Zakaria** | A film browser with live search, filters and favourites | React, React Router, TheMovieDB API | [Live](https://cine-zakaria-1xhr.vercel.app/)&nbsp;/&nbsp;[Code](https://github.com/ZakariaMerghmi/CineZakaria) |
 | **Dwarf Game** | A small Minecraft-style game from a university team project | C | [Code](https://github.com/ZakariaMerghmi/dwarf-game) |
 | **Little Lemon** | A restaurant site with a booking system and dynamic menu | React, Tailwind CSS | [Code](https://github.com/ZakariaMerghmi/little-lemon) |
-| **Weather App** | Live weather by city name | React, OpenWeatherMap API | [Live](https://wheather-app-react-kbbi.vercel.app/), [Code](https://github.com/ZakariaMerghmi/wheather-app-react) |
+| **Weather App** | Live weather by city name | React, OpenWeatherMap API | [Live](https://wheather-app-react-kbbi.vercel.app/)&nbsp;/&nbsp;[Code](https://github.com/ZakariaMerghmi/wheather-app-react) |
 
 Smaller practice projects are in my [repositories](https://github.com/ZakariaMerghmi?tab=repositories).
 
@@ -52,3 +52,9 @@ Smaller practice projects are in my [repositories](https://github.com/ZakariaMer
 ## Talk to me
 
 I am always glad to exchange ideas about frontend architecture, multilingual websites, TypeScript or C. Write to me at [merghmizakaria@gmail.com](mailto:merghmizakaria@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/zakaria-merghmi/).
+
+## Built with AI, on purpose
+
+My portfolio and this profile were built in pair programming with [Claude](https://claude.com). I gave the direction and reviewed every change, and Claude never complained about my change requests. Using AI tools well is part of the job now, so yes, I can do that too. :)
+
+<img src="footer.svg" alt="Thanks for visiting. See you in the next commit." width="100%">
